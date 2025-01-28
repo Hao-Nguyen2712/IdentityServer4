@@ -1,4 +1,4 @@
-namespace AuthServer
+namespace UserService.API
 {
     public class WeatherForecast
     {
